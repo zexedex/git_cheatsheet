@@ -1,7 +1,7 @@
 
 git init : activate a folder as repository
 
-git add "file" or git add . : to generate an index of all the files to follow
+git add "file" or git add . or better git add --all : to generate an index of all the files to follow
 
 git commit -m "add message here" : to save the modifications you did to your files
 
